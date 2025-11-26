@@ -1,0 +1,9 @@
+{
+    "name": "Gia Bao",
+    "age": 20,
+    "courses": [
+        "Python",
+        "Django",
+        "Machine Learning"
+    ]
+}
